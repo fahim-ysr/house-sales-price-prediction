@@ -75,7 +75,4 @@ Link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techn
 
 ![image](D1.png)
 ![image](D2.png)
-![image](D3.png)
-![image](D5.png)
-![image](D4.png)
 
