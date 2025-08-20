@@ -41,3 +41,4 @@ Test set: 1,459 houses
 ![image](D3.png)
 ![image](D5.png)
 ![image](D4.png)
+
